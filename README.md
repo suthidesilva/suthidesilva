@@ -1,4 +1,4 @@
-### Hi there 👋 I am Suthira de Silva.
+### Hi there 👋
 
 - 🔭 I’m currently working on **AI / LLM Integrated Microcontrollers.**
 - 🧠 My cup of tea is **C++** and **Python**, but I am super intereest in **Assembly language**.
