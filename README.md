@@ -9,5 +9,6 @@
 - 📫 How to reach me: **LinkedIn profile** - https://www.linkedin.com/in/desilvasuthira/ , **Email** - suthiradesilva@gmail.com  
 - ⚡ Fun fact: I am ambidextrous, which means I have the ability to use both the right and left hand equally well.
 
+My LeetCode Stats:
 [![suthi de silva's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suthidesilva&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
