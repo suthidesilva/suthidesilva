@@ -10,6 +10,4 @@
 - ⚡ Fun fact: I am ambidextrous, which means I have the ability to use both the right and left hand equally well.
 
 ### My LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count,?ext=activity)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity)
