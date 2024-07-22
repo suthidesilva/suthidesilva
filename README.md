@@ -11,4 +11,4 @@
 
 ### My LeetCode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcode.com/u/suthidesilva/)
