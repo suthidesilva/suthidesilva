@@ -11,4 +11,4 @@
 
 ### My LeetCode Stats:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
