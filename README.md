@@ -11,5 +11,5 @@
 
 ### My LeetCode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity?theme=dark?font=milonga)
+![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity?theme=dark)
 
