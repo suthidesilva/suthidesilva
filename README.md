@@ -11,5 +11,4 @@
 
 ### My LeetCode Stats:
 
-[![suthi de silva's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suthidesilva&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
