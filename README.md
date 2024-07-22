@@ -12,4 +12,4 @@
 ### My LeetCode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?width=0&height=0?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?width=230&height=320?ext=activity)
