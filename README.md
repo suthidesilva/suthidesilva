@@ -15,4 +15,4 @@
 ### My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthidesilva&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/suthidesilva/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/suthidesilva&layout=compact/github-readme-stats)
