@@ -11,3 +11,5 @@
 
 ### My LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity)
+
+![Suthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suthidesilva&show_icons=true&theme=radical)
