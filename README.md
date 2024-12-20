@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=700&color=00F7F4&width=900&height=70&lines=Hey!+I'm+Suthi+de+Silva+(o%E2%80%BFo);Nice+to+meet+you!!!;Check+out+my+bio%2C++stats%2C+and+repos+%3A)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=700&color=00E8FF&width=1000&height=70&lines=Hey!+I'm+Suthi+de+Silva+(o%E2%80%BFo);Nice+to+meet+you!!!;Check+out+my+bio%2C++stats%2C+and+repos+%3A))](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **AI / LLM Integrated Microcontrollers.**
