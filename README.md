@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=5DF700&width=435&lines=Hey!+I+am+Suthi+de+Silva.;Nice+to+meet+you!;Check+out+my+bio%2C++stats%2C+and+repos.)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **AI / LLM Integrated Microcontrollers.**
@@ -8,8 +10,6 @@
 - 💬 Ask me about **computer automation**, and **computer architecture**. 
 - 📫 How to reach me: **LinkedIn profile** - https://www.linkedin.com/in/desilvasuthira/ , **Email** - suthiradesilva@gmail.com  
 - ⚡ Fun fact: I am ambidextrous, which means I have the ability to use both the right and left hand equally well.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=5DF700&width=435&lines=Hey!+I+am+Suthi+de+Silva.;Nice+to+meet+you!;Check+out+my+stats%2C+and+repos.)](https://git.io/typing-svg)
 
 ### My LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity&theme=dark)
