@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=5DF700&center=true&vCenter=true&width=435&lines=Hey!+I+am+Suthi+de+Silva.;Nice+to+meet+you!;Check+out+my+stats%2C+and+repos.)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **AI / LLM Integrated Microcontrollers.**
 - 🧠 My cup of tea is **C++** and **Python**, but I am super intereest in **Assembly language**.
 - 🌱 I’m currently learning  **Scala, Specify7, React, Web Assembly, Swift & Node.js**.
