@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=700&color=5DF700&width=900&height=70&lines=Hey!+I'm+Suthi+de+Silva+(o%E2%80%BFo);Nice+to+meet+you!!!;Check+out+my+bio%2C++stats%2C+and+repos+%3A))]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=700&color=5DF700&width=900&height=70&lines=Hey!+I'm+Suthi+de+Silva+(o%E2%80%BFo);Nice+to+meet+you!!!;Check+out+my+bio%2C++stats%2C+and+repos+%3A)
 
 ### Hi there 👋
 
