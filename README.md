@@ -13,6 +13,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity&theme=dark)
 
 ### My GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suthidesilva&theme=dark)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthidesilva&layout=donut&theme=dark)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=dark)](https://github.com/suthidesilva/github-readme-stats)
