@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=F1FF00&width=850&height=70&lines=Scroll+down+to+get+to+know+me!!!)](https://git.io/typing-svg)
 
 ### Skills
@@ -40,4 +42,4 @@
 
 ## This is me working on my next project
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
