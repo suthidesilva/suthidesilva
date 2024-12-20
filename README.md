@@ -11,7 +11,7 @@
 
 🌱 **Always Learning:** Exploring Scala, React, Swift, Web Assembly, Specify 7, and Node.js to expand my development arsenal.  
 
-🤝 **Collaboration Goals:** Developing platforms to empower students globally, such as [YoteSwap]([https://github.com/suthidesilva](https://saving-striking-turtle-952.vscodeedu.app)), which enhances resource-sharing among low-income college students.  
+🤝 **Collaboration Goals:** Developing platforms to empower students globally, such as [YoteSwap](https://saving-striking-turtle-952.vscodeedu.app), which enhances resource-sharing among low-income college students.  
 
 📊 **Core Competencies:** Machine learning (TensorFlow, PyTorch), web and app development (React, Node.js), and systems design (AWS, Azure, CAD).
 
