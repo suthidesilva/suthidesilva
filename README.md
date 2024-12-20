@@ -3,16 +3,22 @@
 ### Hi there! 👋 
 
 🔭 **Current Focus:** Advancing the integration of AI and LLMs with microcontrollers to drive innovation in edge computing and automation.  
+
 🧠 **My Expertise:** Python, C++, SQL, and Scala are my technical mainstays, complemented by a keen interest in Assembly language for low-level programming.  
+
 🌱 **Always Learning:** Exploring Scala, React, Swift, Web Assembly, Specify 7, and Node.js to expand my development arsenal.  
+
 🤝 **Collaboration Goals:** Developing platforms to empower students globally, such as [YoteSwap](https://github.com/suthidesilva), which enhances resource-sharing among low-income college students.  
-📊 **Core Competencies:** Machine learning (TensorFlow, PyTorch), web and app development (React, Node.js), and systems design (AWS, Azure, CAD).  
+
+📊 **Core Competencies:** Machine learning (TensorFlow, PyTorch), web and app development (React, Node.js), and systems design (AWS, Azure, CAD).
+
 🔧 **Tech Highlights:**  
    - Proficient in OOP, network design, and computer hardware architecture.  
    - Skilled in Linux shell scripting, version control (Git), and database systems (Specify 7, DBMS).  
    - Hands-on experience with AI model fine-tuning using QLoRA to optimize Microsoft's Phi-2.  
 
-💬 **Let’s Chat:** Ask me about computer automation, architecture, and astronomy research—where I’ve programmed Python algorithms to analyze stellar spectra!  
+💬 **Let’s Chat:** Ask me about computer automation, architecture, and astronomy research—where I’ve programmed Python algorithms to analyze stellar spectra! 
+
 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/desilvasuthira/) | [Email](mailto:suthiradesilva@gmail.com)  
 
 ⚡ **Fun Fact:** I’m ambidextrous—equally skilled with both hands, whether I’m coding or fixing hardware!
