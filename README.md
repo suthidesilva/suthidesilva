@@ -19,3 +19,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthidesilva&layout=donut&theme=dark)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=dark)](https://github.com/suthidesilva/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=suthidesilva&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
