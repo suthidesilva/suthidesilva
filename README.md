@@ -1,7 +1,7 @@
 ![Suthi png](https://github.com/suthidesilva/suthidesilva/blob/main/readme.png)
 
 ### Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes&titles=true)
 
 ### Connect with Me:
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:suthiradesilva@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desilvasuthira)
