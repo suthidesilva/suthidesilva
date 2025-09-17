@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=2000&color=E5F700&width=550&lines=SCROLL+DOWN+TO+GET+TO+KNOW+ME!)](https://git.io/typing-svg)
 
 ### Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sql,javascript,html,css,r,java,typescript,cpp,ruby,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,macos,linux,ubuntu&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,javascript,html,css,r,java,typescript,cpp,ruby,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,macos,linux,ubuntu&titles=true)
 
 ### Hi there! 👋 
 
