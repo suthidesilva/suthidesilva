@@ -4,7 +4,7 @@
 # Suthira's Skills
 
 ## Programming Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sql,javascript,html,css,r,java,typescript,cpp,ruby&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlite,javascript,html,css,r,java,typescript,cpp,ruby&titles=true)
 
 ## Frameworks & Libraries
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery&titles=true)
