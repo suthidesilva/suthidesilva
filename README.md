@@ -15,8 +15,6 @@ Software Engineer @ In Time Tec | Contractor @ Idaho Industrial Commission
 ### GitHub Stats:
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=dark)](https://github.com/suthidesilva/github-readme-stats)
 
-![snake gif](https://github.com/suthidesilva/suthidesilva/blob/output/github-snake-dark.svg)
-
 ## This is me working on my next project
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
