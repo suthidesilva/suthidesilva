@@ -4,7 +4,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
 
 ### Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/desilvasuthira/) | [Email](mailto:suthiradesilva@gmail.com)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:suthiradesilva@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desilvasuthira)
 
 
 ### LeetCode Stats:
