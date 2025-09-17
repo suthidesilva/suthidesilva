@@ -3,18 +3,16 @@
 ### Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
 
-**Connect with Me:** [LinkedIn](https://www.linkedin.com/in/desilvasuthira/) | [Email](mailto:suthiradesilva@gmail.com)  
+### Connect with Me:
+[LinkedIn](https://www.linkedin.com/in/desilvasuthira/) | [Email](mailto:suthiradesilva@gmail.com)  
 
 
 ### LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suthidesilva?ext=activity&theme=dark)
 
 ### GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=suthidesilva&theme=meta-dark)](https://git.io/streak-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=dark)](https://github.com/suthidesilva/github-readme-stats)
-
-[![](https://visitcount.itsvg.in/api?id=suthidesilva&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## This is me working on my next project
 
