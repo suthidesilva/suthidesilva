@@ -1,32 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=2000&color=E5F700&width=550&lines=SCROLL+DOWN+TO+GET+TO+KNOW+ME!)](https://git.io/typing-svg)
 
 ### Skills
-# Suthira's Skills
+![My Skills](https://go-skill-icons.vercel.app/api/iconsi=python,cs,sqlite,javascript,html,css,r,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
 
-## Programming Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlite,javascript,html,css,r,java,typescript,cpp,ruby&titles=true)
-
-## Frameworks & Libraries
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery&titles=true)
-
-## Databases & Data
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,mysql&titles=true)
-
-## Cloud & DevOps
-![Cloud](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,git,docker,kubernetes,bash&titles=true)
-
-## Development Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,powershell&titles=true)
-
-## Operating Systems
-![OS](https://go-skill-icons.vercel.app/api/icons?i=windows,macos,linux,ubuntu&titles=true)
-
-## All Skills Combined
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sql,javascript,html,css,r,java,typescript,cpp,ruby,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,macos,linux,ubuntu&titles=true)
-
-## Compact Version (Most Used)
-![Core Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sql,javascript,html,css,nodejs,react,dotnet,tensorflow,pytorch,mongodb,azure,git,docker&titles=true)
-### My Portfolio - https://charcoal-catching-hippo-774.vscodeedu.app
 
 ### Hi there! 👋 
 
