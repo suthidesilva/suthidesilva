@@ -12,7 +12,7 @@
 
 ### GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suthidesilva&theme=blackice)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suthidesilva)](https://git.io/streak-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=dark)](https://github.com/suthidesilva/github-readme-stats)
 
