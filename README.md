@@ -1,4 +1,4 @@
-![Suthi png](https://github.com/suthidesilva/suthidesilva/blob/main/banner2.png)
+![Suthi png](https://github.com/suthidesilva/suthidesilva/blob/main/readme.png)
 
 ### Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
