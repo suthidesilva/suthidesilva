@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=2000&color=E5F700&width=550&lines=SCROLL+DOWN+TO+GET+TO+KNOW+ME!)](https://git.io/typing-svg)
+![Suthi png](https://github.com/suthidesilva/suthidesilva/blob/main/readme.png)
 
 ### Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,java,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes,bash,vscode,github,powershell,windows,linux,ubuntu&titles=true)
