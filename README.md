@@ -2,7 +2,8 @@
 
 ## Work:
 Software Engineer @ In Time Tec | Contractor @ Idaho Industrial Commission
-Go check out my web portfolio - https://suthiradesilva.com
+
+Go check out my web portfolio - suthiradesilva.com
 
 ### Skills:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,json,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes&titles=true)
