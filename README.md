@@ -1,7 +1,7 @@
 ![Suthi png](https://github.com/suthidesilva/suthidesilva/blob/main/readme.png)
 
 ## Work:
-Software Engineer @ In Time Tec | Contractor @ Idaho Industrial Commission
+Software Engineer @ State of Idaho
 
 #### Go check out my web portfolio - [suthiradesilva.com](https://suthiradesilva.com)
 
