@@ -6,7 +6,7 @@ Software Engineer @ State of Idaho
 #### Go check out my web portfolio - [suthiradesilva.com](https://suthiradesilva.com)
 
 ### Skills:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,json,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,azure,aws,git,docker,kubernetes&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cs,sqlserver,sqlite,javascript,html,css,r,json,typescript,nodejs,react,dotnet,angular,tensorflow,pytorch,sklearn,bootstrap,jquery,mongodb,postgresql,mysql,tenserflow,azure,git&titles=true)
 
 ### Reach out to me:
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:suthiradesilva@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desilvasuthira)
